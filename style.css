@@ -1,0 +1,43 @@
+body {
+    background: #181818;
+}
+
+.container {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding-top: 100px;
+}
+
+input, button {
+    height: 65px;
+    font-size: 1.2rem;
+    padding: 0 20 px;
+    border-radius: 5px;
+    color: #aaa;
+}
+
+input {
+    background: #2e2e2e;
+    border: 0;
+    margin-bottom: 2px;
+    padding-left: 10px;
+}
+
+button {
+    background: #181818;
+    border: 1px solid #4d4d4d;
+    color: #aaa;
+    margin: 20px 0;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    color: #aaa;
+}
+
+img {
+    padding-bottom: 50px;
+}
